@@ -1,6 +1,29 @@
 .background--color:aqua{
-    background-color: aqua;
+    background-color: aqua(0,255,255);
+
 }
 
 .background--color:green{
-    background-color:green
+    background-color:green(0,128,0);
+}
+
+.background--color:red{
+    background-color:red(255,0,0);
+
+}    
+
+.background--color:black{
+    background-color:black(0,0,0);
+}
+
+.background--color:orange{
+    background-color:orange
+}
+
+.background--color:skyblue{
+    background-color:skyblue
+}
+
+.background--color:darkgrey{
+    background-color:darkgrey
+}
